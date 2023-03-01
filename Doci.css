@@ -1,0 +1,57 @@
+body {
+	background-color: lightgrey;
+}
+
+p {
+	text-align: center;
+}
+
+#p1id {
+	text-align: right;
+}
+
+button {
+	width: 250px;
+	height: 50px;
+	font-size: 24;
+	font-family: Calibri;
+}
+
+#buttonSend {
+	width: 100px;
+	height: 40px;
+	font-size: 15;
+	font-family: Tahoma;
+}
+
+table {
+	width: 600;
+	height: 200;
+	text-align: left;
+	direction: ltr;
+	font-family: Tahoma;
+	font-size: 15;
+	font-style: bold;
+}
+
+input {
+	width: 200;
+	height: 50;
+	font-size: 15;
+	font-family: Tahoma;
+	text-align: center;
+}
+
+select {
+	width: 100px;
+	height: 50px;
+	font-size: 15;
+	font-family: Tahoma;
+	text-align: center;
+}
+
+h3 {
+	font-family: Tahoma;
+	text-align: Center;
+	direction: rtl;
+}
